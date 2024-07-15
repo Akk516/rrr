@@ -1,0 +1,39 @@
+    body{
+		 
+		
+		
+		background:url(https://cdn.motor1.com/images/mgl/gYPO9/s1/bugatti-chiron-sport-and-pur-sport-paris-test-drive.jpg);
+		height:500px;
+		background-repeat:no-repeat;
+		background-attachment:fixed;
+		background-size:cover;
+		
+	}
+	
+p b i{
+	background-color: blue ;
+	
+}
+
+body h3{
+	text-decoration:underline;
+	text-transform:lowercase;
+}
+
+   body h2{
+	   text-decoration:overline;
+	   text-transform:uppercase;
+   }
+   
+   body h1{
+	   text-decoration:line-through;
+	   text-transform:capitalize;
+   }
+   
+   table{
+	   background-color:#0EECDD;
+   }
+   
+   body h2,h3,h4,h5,h6{
+	   color:yellow ;
+   }
